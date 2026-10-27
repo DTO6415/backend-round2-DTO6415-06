@@ -1,0 +1,6 @@
+spring:
+  config:
+    import:
+      - "C:/Users/qyr/DBDemo-config.yaml"
+  application:
+    name: DBDemo
